@@ -6,4 +6,4 @@ def Tic_Tac_Toe_Board
   puts "-----------"
   puts "   |   |   "
 end
-Tic_Tac_Toe_Board
+puts Tic_Tac_Toe_Board
